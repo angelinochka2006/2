@@ -11,7 +11,7 @@ class Calculator
         {
             try
             {
-                Console.Write("Введите первое число: ");
+                Console.Write("Введите первое число: 1231223");
                 double num1 = Convert.ToDouble(Console.ReadLine());
 
                 Console.Write("Введите оператор (+, -, *, /, %, ^): ");
